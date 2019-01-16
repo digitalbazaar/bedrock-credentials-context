@@ -1,1 +1,1 @@
-# bedrock-credential-context
+# bedrock-credentials-context

@@ -1,0 +1,31 @@
+{
+  "name": "bedrock-credentials-context",
+  "version": "0.0.1-0",
+  "description": "Credentials Context (Bedrock module)",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-credentials-context.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-credentials-context/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-credentials-context",
+  "dependencies": {
+    "credentials-context": "1.0.0"
+  },
+  "peerDependencies": {
+    "bedrock": "^3.0.0",
+    "bedrock-jsonld-document-loader": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-digitalbazaar": "^2.0.1"
+  }
+}
