@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-credentials-context",
   "dependencies": {
-    "credentials-context": "1.0.0"
+    "credentials-context": "~1.0.0"
   },
   "peerDependencies": {
     "bedrock": "^3.0.0",
