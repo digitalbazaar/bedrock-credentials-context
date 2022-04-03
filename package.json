@@ -1,5 +1,5 @@
 {
-  "name": "bedrock-credentials-context",
+  "name": "@bedrock/credentials-context",
   "version": "1.1.1-0",
   "type": "module",
   "description": "Credentials Context (Bedrock module)",
