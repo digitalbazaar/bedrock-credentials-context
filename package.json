@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-credentials-context",
   "dependencies": {
+    "@digitalbazaar/credentials-v2-context": "github:digitalbazaar/credentials-v2-context#initial",
     "credentials-context": "^2.0.0"
   },
   "peerDependencies": {
