@@ -1,5 +1,11 @@
 # bedrock-credentials-context ChangeLog
 
+## 4.0.0 - 2022-09-xx
+
+### Changed
+- **BREAKING**: Update peer deps:
+  - Use `@bedrock/jsonld-document-loader@4`.
+
 ## 3.0.0 - 2022-04-29
 
 ### Changed
