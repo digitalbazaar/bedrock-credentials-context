@@ -3,8 +3,12 @@
 ## 4.0.0 - 2022-09-xx
 
 ### Changed
+- Use `credentials-context@2`.
 - **BREAKING**: Update peer deps:
   - Use `@bedrock/jsonld-document-loader@4`.
+
+### Added
+- Add test suite.
 
 ## 3.0.0 - 2022-04-29
 
