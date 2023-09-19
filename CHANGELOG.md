@@ -1,6 +1,6 @@
 # bedrock-credentials-context ChangeLog
 
-## 4.0.0 - 2022-09-xx
+## 4.0.0 - 2022-09-19
 
 ### Changed
 - Use `credentials-context@2`.
