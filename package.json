@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-credentials-context",
   "dependencies": {
-    "credentials-context": "^2.0.0"
+    "@digitalbazaar/credentials-context": "^3.0.0"
   },
   "peerDependencies": {
     "@bedrock/core": "^6.0.0",
-    "@bedrock/jsonld-document-loader": "^4.0.0"
+    "@bedrock/jsonld-document-loader": "^5.1.0"
   },
   "devDependencies": {
     "eslint": "^8.57.0",

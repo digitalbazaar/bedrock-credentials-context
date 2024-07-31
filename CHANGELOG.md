@@ -1,5 +1,18 @@
 # bedrock-credentials-context ChangeLog
 
+## 5.0.0 - 2024-xx-xx
+
+### Changed
+- Update dependencies.
+  - `@bedrock/jsonld-document-loader@5.1.0`.
+  - `@digitalbazaar/credentials-context@3`.
+    - Swicth from `credentials-context`.
+    - Adds VC 2.0 support.
+
+### Removed
+- **BREAKING**: Remove export of constants.
+  - Constants are gone now, questionable behavior, and appears unused.
+
 ## 4.0.0 - 2022-09-19
 
 ### Changed
