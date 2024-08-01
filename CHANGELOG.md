@@ -1,6 +1,6 @@
 # bedrock-credentials-context ChangeLog
 
-## 5.0.0 - 2024-xx-xx
+## 5.0.0 - 2024-08-01
 
 ### Added
 - Re-export `contexts`, `metadata`, and `named` from
