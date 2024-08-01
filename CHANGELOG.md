@@ -1,5 +1,10 @@
 # bedrock-credentials-context ChangeLog
 
+## 5.0.2 - 2024-08-xx
+
+### Fixed
+- Add package `files` field.
+
 ## 5.0.1 - 2024-08-01
 
 ### Changed
