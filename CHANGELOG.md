@@ -2,6 +2,10 @@
 
 ## 5.0.0 - 2024-xx-xx
 
+### Added
+- Re-export `contexts`, `metadata`, and `named` from
+  `@digitalbazaar/credentials-context`.
+
 ### Changed
 - Update dependencies.
   - `@bedrock/jsonld-document-loader@5.1.0`.
@@ -10,8 +14,8 @@
     - Adds VC 2.0 support.
 
 ### Removed
-- **BREAKING**: Remove export of constants.
-  - Constants are gone now, questionable behavior, and appears unused.
+- **BREAKING**: Remove export of `constants`. Replaced with `metadata` and/or
+  `named` exports.
 
 ## 4.0.0 - 2022-09-19
 
