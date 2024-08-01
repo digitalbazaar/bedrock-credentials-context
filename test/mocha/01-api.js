@@ -6,7 +6,7 @@ import {documentLoader} from '@bedrock/jsonld-document-loader';
 describe('bedrock-credentials-context', () => {
   it('sets up contexts properly', async () => {
     const testContexts = [
-      '@digitalbazaar/credentials-context',
+      '@digitalbazaar/credentials-context'
     ];
     for(const testContext of testContexts) {
       const {contexts} = await import(testContext);
