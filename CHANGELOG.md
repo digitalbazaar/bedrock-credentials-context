@@ -6,7 +6,7 @@
 - Update dependencies.
   - `@bedrock/jsonld-document-loader@5.1.0`.
   - `@digitalbazaar/credentials-context@3`.
-    - Swicth from `credentials-context`.
+    - Switch from `credentials-context`.
     - Adds VC 2.0 support.
 
 ### Removed
