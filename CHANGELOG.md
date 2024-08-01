@@ -1,5 +1,10 @@
 # bedrock-credentials-context ChangeLog
 
+## 5.0.1 - 2024-08-xx
+
+### Changed
+- Remove `@bedrock/core` peer dep.
+
 ## 5.0.0 - 2024-08-01
 
 ### Added
