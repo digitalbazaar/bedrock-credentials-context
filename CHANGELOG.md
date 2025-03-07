@@ -1,6 +1,6 @@
 # bedrock-credentials-context ChangeLog
 
-## 5.0.3 - 2025-03-xx
+## 5.0.3 - 2025-03-07
 
 ### Changed
 - Update dependencies.
