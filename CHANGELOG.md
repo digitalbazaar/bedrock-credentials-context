@@ -1,5 +1,11 @@
 # bedrock-credentials-context ChangeLog
 
+## 5.0.3 - 2025-03-xx
+
+### Changed
+- Update dependencies.
+  - `@digitalbazaar/credentials-context@3.2.0`.
+
 ## 5.0.2 - 2024-08-01
 
 ### Fixed
